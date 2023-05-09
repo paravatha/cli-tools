@@ -9,3 +9,5 @@ List of useful CLI tools for Linux, Mac and k8s
 
 - kube-ps1 [https://github.com/jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1)
 - kubeshark [https://github.com/kubeshark/kubeshark](https://github.com/kubeshark/kubeshark)  
+- mirrod [https://github.com/metalbear-co/mirrord](https://github.com/metalbear-co/mirrord)
+- 
